@@ -12,26 +12,26 @@ The repository structure is as follows:
 ```
 LeetCode
 │   README.md
-│   main.py (test runner)
+│   LICENSE
 │
 └───solutions
 │   │
 │   └───easy
-│       │   01_problem_title_one.py
-│       │   02_problem_title_two.py
+│       │   problem_title_one.py
+│       │   problem_title_two.py
 │       │   ...
 │   
 └───tests
 │   │
 │   └───easy
-│       │   01_problem_title_one_test.py
-│       │   02_problem_title_two_test.py
+│       │   problem_title_one_test.py
+│       │   problem_title_two_test.py
 │       │   ...
 │   
 └───notes
 │   │
 │   └───easy
-│       │   01_problem_title_one.md
-│       │   02_problem_title_two.md
+│       │   problem_title_one.md
+│       │   problem_title_two.md
 │       │   ...
 ```
