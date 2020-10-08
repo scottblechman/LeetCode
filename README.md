@@ -1,6 +1,8 @@
 # LeetCode
 ## Scott Blechman
 
+![tests](https://github.com/scottblechman/LeetCode/workflows/tests/badge.svg)
+
 ### Overview
 Solutions are categorized by difficulty (e.g. Easy, Medium, Hard). All solutions are written in Python 3.8+. Not every solution is optimal (optimized solutions are noted, along with the complexities).
 
