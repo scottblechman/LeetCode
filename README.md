@@ -1,14 +1,15 @@
 # LeetCode
 ## Scott Blechman
 
+### Overview
 Solutions are categorized by difficulty (e.g. Easy, Medium, Hard). All solutions are written in Python 3.8+. Not every solution is optimal (optimized solutions are noted, along with the complexities).
 
 Each solution includes:
 * Python implementation
-* Unit test(s) (tests are realized with CI)
+* Unit test(s) (verified during CI)
 * Implementation notes ("thought process")
 
-The repository structure is as follows:
+### Repository Structure
 ```
 LeetCode
 │   README.md
@@ -35,3 +36,5 @@ LeetCode
 │       │   problem_title_two.md
 │       │   ...
 ```
+
+### Libraries
